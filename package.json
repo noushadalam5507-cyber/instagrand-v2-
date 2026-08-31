@@ -17,7 +17,7 @@
     "@vitejs/plugin-react": "^5.0.4",
     "agora-rtc-sdk-ng": "^4.24.7",
     "canvas-confetti": "^1.9.4",
-    "dotenv": "^1.7.3",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "firebase": "^12.18.0",
     "lucide-react": "^0.546.0",
