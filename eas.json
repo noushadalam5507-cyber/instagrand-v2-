@@ -10,7 +10,7 @@
     "preview": {
       "node": "22.12.0",
       "distribution": "internal",
-      "projectId": "a64016d9-f542-4f01-bda4-44df0e3b97b0",
+      
       "android": {
         "buildType": "apk"
       },
