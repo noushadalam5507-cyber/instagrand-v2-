@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Instagrand",
-    "slug": "instagrand-vip",
+    "name": "Instagram",
+    "slug": "Instagram-v2",
     "version": "1.0.0",
     "extra": {
       "eas": {
-        "8637c413-3fea-4e4f-88f8-555b9f157bab"
+        "projectId": "8637c413-3fea-4e4f-88f8-555b9f157bab"
       }
     },
     "android": {
@@ -22,7 +22,7 @@
     },
     "admob": {
       "appId": "ca-app-pub-9658260608635009~8417798607",
-      "bannerAdUnitId": "ca-app-pub-9658260608635009/6250800262",
+      "bannerAdUnitId": "ca-app-pub-9658260608635009/6250808262",
       "testDeviceIds": [],
       "bannerPosition": "bottom"
     },
