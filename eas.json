@@ -1,6 +1,7 @@
 {
   "cli": {
-    "version": ">= 10.0.0"
+    "version": ">= 10.0.0",
+    "requireCommit": false
   },
   "build": {
     "development": {
@@ -10,12 +11,12 @@
     "preview": {
       "node": "22.12.0",
       "distribution": "internal",
-      
       "android": {
         "buildType": "apk"
       },
       "env": {
-        "EAS_NO_FROZEN_LOCKFILE": "1"
+        "EAS_NO_FROZEN_LOCKFILE": "1",
+        "EAS_PROJECT_ID_BYPASS_CHECK": "1"
       }
     },
     "production": {}
