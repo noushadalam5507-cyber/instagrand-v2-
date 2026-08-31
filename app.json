@@ -1,7 +1,8 @@
-{
-  "name": "Instagrand",
-  "displayName": "Instagrand VIP",
-  "version": "1.0.0",
+{ "expo": {
+  
+  
+  
+  
   "admob": {
     "appId": "ca-app-pub-9658260608635009~8417798607",
     "bannerAdUnitId": "ca-app-pub-9658260608635009/6250800262",
@@ -13,7 +14,7 @@
     "mode": "rtc",
     "codec": "vp8"
   },
-  "expo": {
+
     "name": "Instagrand",
     "slug": "instagrand-vip",
     "version": "1.0.0",
