@@ -1,0 +1,16 @@
+{
+  "short_name": "Instagrand",
+  "name": "Instagrand N A - 3D VIP Studio",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#090314",
+  "theme_color": "#a855f7",
+  "display": "standalone",
+  "orientation": "portrait"
+}

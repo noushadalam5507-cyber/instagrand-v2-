@@ -1,0 +1,11 @@
+{
+  "name": "Instagrand N A",
+  "description": "Instagrand N A - Modern Social Studio with Owner Custom PIN Chat Lock & Recovery, Anti-Hack Device Protection, Apple/Android/PC Universal Support, Comprehensive User Search with Follow/Unfollow, and Purple Neon, Dark, and Light Theme Switching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

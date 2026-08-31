@@ -1,0 +1,33 @@
+{
+  "name": "Instagrand",
+  "displayName": "Instagrand VIP",
+  "version": "1.0.0",
+  "admob": {
+    "appId": "ca-app-pub-9658260608635009~8417798607",
+    "bannerAdUnitId": "ca-app-pub-9658260608635009/6250800262",
+    "testDeviceIds": [],
+    "bannerPosition": "bottom"
+  },
+  "agora": {
+    "appId": "e1d2afd25ca545198595230e1b039339",
+    "mode": "rtc",
+    "codec": "vp8"
+  },
+  "expo": {
+    "name": "Instagrand",
+    "slug": "instagrand-vip",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.instagrand.app",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9658260608635009~8417798607"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.instagrand.app",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-9658260608635009~8417798607"
+      }
+    }
+  }
+}
